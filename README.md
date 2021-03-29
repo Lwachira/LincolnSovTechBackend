@@ -9,7 +9,7 @@ You can find the hosted version [Here on my Heroku Instance](https://lincolnsovt
 
 # Usage
 
-    Git Clone (https://github.com/Lwachira/LincolnSovTechBackend.git)
+    Git Clone https://github.com/Lwachira/LincolnSovTechBackend.git
     CD to the location
     dotnet restore
     dotnet run
